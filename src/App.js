@@ -5,10 +5,10 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <h1 className="App-title">Reactへようこそ!</h1>
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
+          <h1 className="App-title">Reactへようこそ!</h1>
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
